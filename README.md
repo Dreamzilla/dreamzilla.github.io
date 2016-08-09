@@ -9,10 +9,10 @@ This guide helps you to get started with Serverauditor and its features.
 * [Become a beta tester](faq/general/product_and_functionality/beta_tester.md)
 * [Premium subscription](subscriptions.md)
 * [Security](security.md)
-* [FAQ](faq/README.md#general-faq)
+* [FAQ](faq/#general-faq)
 
 ## Android
-* [Quick start]()
+* [Quick start](android/quickstart/)
 * [Using Serverauditor]()
 * [FAQ](faq/README.md#android-faq)
 
