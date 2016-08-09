@@ -2,7 +2,7 @@
 
 We have decided to distribute Serverauditor Premium under a subscription-based licensing model for several reasons. 
 
-First and foremost, Serverauditor is a product that is always under development, we strive to meet with we believe the ever-evolving market, security-wise and regarding UX/UI and functionality. And so, Serverauditor agrees with the latest trends technology-wise. We believe that a Subscription-based distribution allows long-term development and investment. Guaranteeing quality software, today and tomorrow. 
+First and foremost, Serverauditor is a product that is always under development, we strive to stay in track of the ever-evolving market. Serverauditor agrees with the latest trends technology-wise, security-wise and regarding UX/UI and functionality. We believe that a Subscription-based distribution allows long-term development and investment. Guaranteeing quality software, today and tomorrow.
 
 What's more? Premium users get cross-platform synchronization. We make sure that the user data you produce is synchronized across all the devices you'll use. To do so we run a secure zero-knowledge data store in the cloud (AWS).
 
