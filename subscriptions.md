@@ -1,13 +1,13 @@
 # Serverauditor Premium
 
-Serverauditor is available under two different licsencing models. Our free version is available for private use, it is add-free and free to download from different app stores. A subscricription based version, Serveraudior Premium, is available for commercial use and costs $6,- (US) annually.
+Serverauditor is available under two different licencing models. Our free version is available for private use, it is add-free and free to download from different app stores. A subscription-based version, Serveraudior Premium, is available for commercial use and costs $6,- (US) annually.
 
 Serverauditor Premium ships with extended functionality such as SFTP and Cross-Platform synchronization. [Click here](#features) for the full list of features. 
 
 > #####*!* SMB and Enterprise clients
 > Curious after a tailored licensing model to meet the specific needs of your business? Please [contact](mailto:sales@serverauditor.com) our sales team. 
 
-## How to get a Premium subscripton?
+## How to get a Premium subscription?
 Serverauditor Premium is available on all supported platforms and can be purchased in-app.
 
 ## Payment, Subscription and Cancellation
@@ -21,11 +21,10 @@ __Android users__ may cancel or change a Serverauditor Premium subscription thro
 
 To manage your Serverauditor Premium Subscription, login to Google Play. Tap the menu drawer and navigate to `My Apps`. Under the `Subscriptions` tab, you’ll find Serverauditor.  Otherwise, navigate to Serverauditor's app page. Here you'll find various options. [Click here](https://support.google.com/googleplay/answer/7018481) for detailed instructions. 
 
-> ***!*** For assistance, please [contact support](https://serverauditor.uservoice.com/clients/widgets/classic_widget?mode=support&locale=en&forum_id=243650&contact_us=true&custom_template_id=25586&context=site2&embed_type=lightbox&contact_enabled=true&feedback_enabled=false&strings=e30%3D&smartvote=true&default_mode=support&referrer=https%3A%2F%2Fserverauditor.uservoice.com%2Fknowledgebase#contact_us). This can be done online or directly in the app. To do so, open the menu, tap `Help & feedback` and tap `Contact Support`.
+> ***!*** For assistance, please [contact support](https://serverauditor.uservoice.com/clients/widgets/classic_widget?mode=support&locale=en&forum_id=243650&contact_us=true&custom_template_id=25586&context=site2&embed_type=lightbox&contact_enabled=true&feedback_enabled=false&strings=e30%3D&smartvote=true&default_mode=support&referrer=https:%2F%2Fserverauditor.uservoice.com%2Fknowledgebase#contact_us). This can be done online or directly in the app. To do so, open the menu, tap `Help & feedback` and tap `Contact Support`.
 
 
 ## Features
 
 
 ## FAQ
-
