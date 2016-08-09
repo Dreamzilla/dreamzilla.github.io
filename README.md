@@ -9,20 +9,20 @@ This guide helps you to get started with Serverauditor and its features.
 * [Become a beta tester](faq/general/product_and_functionality/beta_tester.md)
 * [Premium subscription](subscriptions.md)
 * [Security](security.md)
-* [FAQ](faq/README.md#general)
+* [FAQ](faq/README.md#general-faq)
 
 ## Android
 * [Quick start]()
 * [Using Serverauditor]()
-* [FAQ](faq/README.md#android)
+* [FAQ](faq/README.md#android-faq)
 
 ## iOS
 * [Quick start]()
 * [Using Serverauditor]()
-* [FAQ](faq/README.md#ios)
+* [FAQ](faq/README.md#ios-faq)
 
 ## Chrome
 * [Quick start]()
 * [Using Serverauditor]()
-* [FAQ](faq/README.md#chrome)
+* [FAQ](faq/README.md#chrome-faq)
 
