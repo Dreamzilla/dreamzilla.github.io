@@ -1,6 +1,6 @@
 # Serverauditor Premium
 
-Serverauditor is available under two different licencing models. Our free version is available for private use, it is add-free and free to download from different app stores. A subscription-based version, Serveraudior Premium, is available for commercial use and costs $6,- (US) annually.
+Serverauditor is available under two different licensing models. Our free version is available for private use, it is add-free and free to download from different app stores. A subscription-based version, Serveraudior Premium, is available for commercial use and costs $6,- (US) annually.
 
 Serverauditor Premium ships with extended functionality such as SFTP and Cross-Platform synchronization. [Click here](#features) for the full list of features. 
 
