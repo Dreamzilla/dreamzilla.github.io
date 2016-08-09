@@ -14,12 +14,12 @@ This guide helps you to get started with Serverauditor and its features.
 ## Android
 * [Quick start]()
 * [Using Serverauditor]()
-* [FAQ](faq.md#android]()
+* [FAQ](faq.md#android)
 
 ## iOS
 * [Quick start]()
 * [Using Serverauditor]()
-* [FAQ](faq.md#ios]()
+* [FAQ](faq.md#ios)
 
 ## Chrome
 * [Quick start]()
