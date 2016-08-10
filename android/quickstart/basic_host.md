@@ -26,7 +26,7 @@ A new screen will appear titled `New Host`
 
 ![New Host](images/host01.png)
 
-> ***!*** IP address, hostname, and credentials are unique to the host you connect with.
+> ***!*** IP address, hostname, and credentials are unique to the host you connect with
 
 ## Connect to a host
 
