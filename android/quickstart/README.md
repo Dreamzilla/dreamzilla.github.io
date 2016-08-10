@@ -4,7 +4,7 @@ You have [downloaded](../what_is_serverauditor.md#how-to-get-serverauditor) Serv
 
 * [Setup a basic host](basic_host.md)
 * [Hosts and host groups](host_groups.md)
-* [Set access with PortForwarding](portforwarding.md)
+* [Set access with Port forwarding](port_forwarding.md)
 * [Use Snippets](snippets.md)
 * [Import the ~/.ssh/config file](configfile.md)
 * [Import DigitalOcean and AWS instances](do_aws.md)
