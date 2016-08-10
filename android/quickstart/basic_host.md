@@ -1,5 +1,7 @@
 ## Work with a basic host
 
+To start a session, the user needs to setup a host, this is done in the `Hosts` screen. In our example we'll be connecting to a Raspberry pi in our local network.
+
 ###In this document
 * [Add a basic host](#add-a-basic-host)
 * [Connect to a host](#connect-to-a-host)
@@ -17,7 +19,7 @@ To get started with Serverauditor we should add a 'host'. This is done in the Ho
 * Them tap `New Host`
 
 A new screen will appear titled `New Host`
-* Enter an alias; Raspberry Pi, for example
+* Enter an alias; 'Raspberry Pi', for example
 * Enter an IP address or hostname under `hostname`
 * Fill out the username and password
 * And hit the tick `✓` in the top right corner 
