@@ -35,7 +35,7 @@ To **add a host directly** to a group, navigate to the group and follow the same
 
 ![Group value](images/groups03.png)
 
-To add a host to a group by **changing it's** `Group` **field value**, 
+To add a host to a group by **changing its** `Group` **field value**, 
 * add a host using the blue `+`
 * Before entering any details, tap the `Group` field
 * Navigate to the correct group, 'Raspberry Fleet' in our case
