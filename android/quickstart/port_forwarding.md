@@ -13,7 +13,7 @@ Sometimes you may want to connect to a host or service that is not directly avai
 
 
 ## How to setup Port forwarding
-We'll use the same host we have set up [before](basic_host.md) with the alias 'Raspberry Pi'. Make sure the connection works. To setup port forwarding we're going to create a new rule.
+Given that the web app is up and running. We'll use the same host we have set up [before](basic_host.md) with the alias 'Raspberry Pi'. Make sure the connection works. To setup port forwarding we're going to create a new rule.
 
 ![Create a new rule](images/portf01.png)
 
@@ -28,7 +28,7 @@ We'll use the same host we have set up [before](basic_host.md) with the alias 'R
 * Finally hit the tick `✓` in the top right corner 
 
 > ##### _!_ Note that the host's IP may have been changed
-Your Raspberry pi may use a dynamic IP address. This means that the IP address may differ after each reboot. [Update](basic_host.md#edit-a-host) the host in such case
+Your Raspberry pi may use a dynamic IP address. This means that the IP address may differ after each reboot. [Update](basic_host.md#edit-or-delete-a-host) the host in such case
 
 Now you'll be sent back to the `Port forwarding` screen. Here tap the new rule, the icon should turn blue. The rule is now in effect. To connect to the web app, open a browser and go to http://127.0.0.1:8080
 
@@ -36,7 +36,6 @@ Now you'll be sent back to the `Port forwarding` screen. Here tap the new rule, 
 
 > ##### _!_ So how does this work?
 Serverauditor redirects all traffic that connects to Localhost on port 8080 to your Raspberry pi over port 8000. This is done through an SSH tunnel, virtually tricking the Pi into believing that you're connecting through 'Localhost'. Finally, by setting the Address to 0.0.0.0 you'll tell your device that all connections are allowed to pass through.
-![Connect using a browser](images/portf03.png)
 
 ## Variation in settings
 
@@ -52,7 +51,9 @@ Here you fill out the targeted address and port.
 ### Address
 Fill out 127.0.0.1 to allow the device that is carrying Serverauditor access to the host. Fill out 0.0.0.0 to allow access to all devices in the same network. And fill out am IP address to allow a specific device. 
 
-> ***!*** If you've set `Address` with 0.0.0.0 you'll be able to tunnel into the web app using any device in the same network. Use the IP address of your mobile device and correct port to do so. For instance http://192.168.1.62:8080 
+![Connect using a browser](images/portf03.png)![Connect using a browser](images/portf04.png)
+
+> ***!*** If you've set `Address` with 0.0.0.0 you'll be able to tunnel into the web app using any device in the same network. Use the IP address of your mobile device and correct port to do so. For instance http://192.168.1.13:8080 
 
 ## Other uses of port forwarding
 
