@@ -8,7 +8,6 @@ Sometimes you may want to connect to a host or service that is not directly avai
 ### In this document
 * [How to setup Port forwarding](#how-to-setup-port-forwarding)
 * [Variation in settings](#variation-in-settings)
-* [Other uses of port forwarding](#other-uses-of-port-forwarding)
 * [Web Resources and Tutorials](#web-resources-and-tutorials)
 
 
@@ -49,16 +48,11 @@ Here you fill out the intermediate server and the port.
 Here you fill out the targeted address and port.
 
 ### Address
-Fill out 127.0.0.1 to allow the device that is carrying Serverauditor access to the host. Fill out 0.0.0.0 to allow access to all devices in the same network. And fill out am IP address to allow a specific device. 
+Fill out 127.0.0.1 to allow the device that is carrying Serverauditor access to the host. To allow access through a specific device you'll fill out its IP address. And use 0.0.0.0 to allow all devices in a network access.
 
 ![Connect using a browser](images/portf03.png) &nbsp; ![Connect using a browser](images/portf04.png)
 
-> ***!*** If you've set `Address` with 0.0.0.0 you'll be able to tunnel into the web app using any device in the same network. Use the IP address of your mobile device and correct port to do so. For instance http://192.168.1.13:8080 
-
-## Other uses of port forwarding
-
-### Establish a secure connection
-### Dunno what else
+> ***!*** If you've set `Address` with 0.0.0.0 you'll be able to tunnel into the web app using any device in the same network. Use the IP address of your mobile device and the correct port to do so. For instance http://192.168.1.13:8080 
 
 ## Web Resources and Tutorials
 * [What is port forwarding](http://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html)
