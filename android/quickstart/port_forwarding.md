@@ -51,7 +51,7 @@ Here you fill out the targeted address and port.
 ### Address
 Fill out 127.0.0.1 to allow the device that is carrying Serverauditor access to the host. Fill out 0.0.0.0 to allow access to all devices in the same network. And fill out am IP address to allow a specific device. 
 
-![Connect using a browser](images/portf03.png)![Connect using a browser](images/portf04.png)
+![Connect using a browser](images/portf03.png) &nbsp; ![Connect using a browser](images/portf04.png)
 
 > ***!*** If you've set `Address` with 0.0.0.0 you'll be able to tunnel into the web app using any device in the same network. Use the IP address of your mobile device and correct port to do so. For instance http://192.168.1.13:8080 
 
