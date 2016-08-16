@@ -15,10 +15,7 @@ Sometimes you may want to connect to a host or service that is not directly avai
 ## How to setup Port forwarding
 We'll use the same host we have set up [before](basic_host.md) with the alias 'Raspberry Pi'. Make sure the connection works. To setup port forwarding we're going to create a new rule.
 
-![Create a new rule](missing)
-
-> ##### _!_ Note that the host's IP has changed
-Your Raspberry pi may use a dynamic IP address. This means that the IP address may differ after each reboot. [Update](basic_host.md#edit-a-host) the host in such case
+![Create a new rule](images/portf01.png)
 
 * Open the menu by tapping the three horizontal lines in the lop left corner
 * Navigate to `Port forwarding`
@@ -30,12 +27,16 @@ Your Raspberry pi may use a dynamic IP address. This means that the IP address m
 * `Address` '0.0.0.0'
 * Finally hit the tick `✓` in the top right corner 
 
+> ##### _!_ Note that the host's IP may have been changed
+Your Raspberry pi may use a dynamic IP address. This means that the IP address may differ after each reboot. [Update](basic_host.md#edit-a-host) the host in such case
+
 Now you'll be sent back to the `Port forwarding` screen. Here tap the new rule, the icon should turn blue. The rule is now in effect. To connect to the web app, open a browser and go to http://127.0.0.1:8080
 
-![Connection established](missing)
+![Connection established](images/portf02.png)
 
 > ##### _!_ So how does this work?
 Serverauditor redirects all traffic that connects to Localhost on port 8080 to your Raspberry pi over port 8000. This is done through an SSH tunnel, virtually tricking the Pi into believing that you're connecting through 'Localhost'. Finally, by setting the Address to 0.0.0.0 you'll tell your device that all connections are allowed to pass through.
+![Connect using a browser](images/portf03.png)
 
 ## Variation in settings
 
