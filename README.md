@@ -4,16 +4,16 @@ Serverauditor is an **advanced SSH client** and **classic terminal tool** in a m
 
 This guide helps you to get started with Serverauditor and its features. 
 
-* [What is Serverauditor?](what_is_serverauditor.md)
-* [How to get Serverauditor?](what_is_serverauditor.md#how-to-get-serverauditor)
-* [Become a beta tester](faq/general/product_and_functionality/beta_tester.md)
-* [Premium subscription](subscriptions.md)
-* [Security](security.md)
-* [FAQ](faq/#general-faq)
+* [What is Serverauditor?](general/what_is_serverauditor.md)
+* [How to get Serverauditor?](general/what_is_serverauditor.md#how-to-get-serverauditor)
+* [Become a beta tester](general/faq//product_and_functionality/beta_tester.md)
+* [Premium subscription](general/subscriptions.md)
+* [Security](general/security.md)
+* [FAQ](faq/)
 
 ## Android
 * [Quick start](android/quickstart/)
-* [Using Serverauditor]()
+* [Features](android/features/)
 * [FAQ](faq/README.md#android-faq)
 
 ## iOS
