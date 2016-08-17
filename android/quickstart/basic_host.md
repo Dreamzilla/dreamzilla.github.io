@@ -31,7 +31,7 @@ A new screen will appear titled `New Host`
 
 ## Using Identities
 
-By tapping the blue icon ![Identities](../images/screenshots/identities.png) right to the username field, you may add an identity to the host. An identity is a predefined username in combination with a password or key. One identity can be shared among multiple hosts and host groups and an identity may be [updated](manage_identities.md#edit-or-delete-an-identity) at any time.
+By tapping the blue icon ![Identities](../images/identities.png) on the right to the `Username` field, you may add an identity to the host. An identity is a predefined username in combination with a password or key. One identity can be shared among multiple hosts and host groups and an identity may be [updated](manage_identities.md#edit-or-delete-an-identity) at any time.
 
 > ***!*** Identities are [managed](manage_identities.md) using [Keychain](../features/keychain.md)
 
