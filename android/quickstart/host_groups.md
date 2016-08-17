@@ -14,7 +14,7 @@ To add a host group
 * Hit the big blue `+` on the bottom right of the screen. 
 * Now tap `New Group`
 
-![Group configuration](images/groups01.png)
+![Group configuration](../images/screenshots/groups01.png)
 
 A screen titled `New Group` appears. It is very similar to the `New Host` screen. Here we will fill out the data that our hosts inside the group will have in common. Leave host-specific fields blank.
 
@@ -29,11 +29,11 @@ A screen titled `New Group` appears. It is very similar to the `New Host` screen
 
 There are two ways to add a host to a group. You may decide to add a host directly to a group, or change the group field inside the host's configuration.
 
-![Select group](images/groups02.png)
+![Select group](../images/screenshots/groups02.png)
 
 To **add a host directly** to a group, navigate to the group and follow the same procedure as when [adding a basic host](basic_host.md). Notice that the `Group` field is already filled out with the name of the group you have navigated to.
 
-![Group value](images/groups03.png)
+![Group value](../images/screenshots/groups03.png)
 
 To add a host to a group by **changing its** `Group` **field value**, 
 * add a host using the blue `+`

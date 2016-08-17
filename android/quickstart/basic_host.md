@@ -4,6 +4,7 @@ To start a session, the user needs to setup a host, this is done in the `Hosts` 
 
 ###In this document
 * [Add a basic host](#add-a-basic-host)
+* [Using Identities](#using-identities)
 * [Connect to a host](#connect-to-a-host)
 * [Edit or delete a host](#edit-or-delete-a-host)
 
@@ -24,15 +25,21 @@ A new screen will appear titled `New Host`
 * Fill out the username and password
 * And hit the tick `✓` in the top right corner 
 
-![New Host](images/host01.png)
+![New Host](../images/screenshots/host01.png)
 
 > ***!*** IP address, hostname, and credentials are unique to the host you connect with
+
+## Using Identities
+
+By tapping the blue icon ![Identities](../images/screenshots/identities.png) right to the username field, you may add an identity to the host. An identity is a predefined username in combination with a password or key. One identity can be shared amoung multiple hosts and host groups and an identity may be [updated](manage_identities.md#edit-or-delete-an-identity) at any time.
+
+> ***!*** Identities are [managed](manage_identities.md) using [Keychain](../features/keychain.md)
 
 ## Connect to a host
 
 After tapping the tick, you'll be sent back to the `Hosts` screen. Here you should see the freshly entered host. To connect **tap it once**. 
 
-![Requesting Fingerprint](images/host02.png)
+![Requesting Fingerprint](../images/screenshots/host02.png)
 
 You may see a [security warning](http://www.lysium.de/blog/index.php?/archives/186-How-to-get-ssh-server-fingerprint-information.html). Don’t worry: everything is fine. Hit `Connect`. You’ll only see this warning the first time Serverauditor connects to a host that it hasn’t seen before.
 
@@ -48,6 +55,6 @@ A connection might be unsuccessful due to various reasons. For instance, you mig
 
 Make sure you are on the `Hosts` screen. Tap the menu button in the top left corner, then tap hosts.
 
-Navigate to the host you want to modify, tap and hold, until a blue circle with a tick appears. Now in the top right corner, tap the dustbin ![](images/dustbin.png) to delete the host, or the pencil ![](images/pencil.png) to alter the host details. 
+Navigate to the host you want to modify, tap and hold, until a blue circle with a tick appears. Now in the top right corner, tap the dustbin ![](../images/dustbin.png) to delete the host, or the pencil ![](../images/pencil.png) to alter the host details. 
 
 After editing the details hit the tick `✓` in the top right corner, to save the changes. 

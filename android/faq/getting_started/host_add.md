@@ -4,7 +4,7 @@ Make sure you are on the `Hosts` screen. Tap the menu button in the top-left cor
 
 To get started, you should tap the blue `+` button in the lower-left corner. Then tap `New Host`.
 
-![New Host](images/ssh-android-config.png)
+![New Host](../../images/screenshots/ssh-android-config.png)
 
 Enter an alias; this could be Raspberry Pi, for example. Then enter the IP address or hostname under hostname. Fill in the username and password and hit the tick `✓` in the top right corner.
 

@@ -4,7 +4,7 @@ Make sure you're in the home screen. Now, follow the instructions on the screen,
 
 > **!** If you run Serverauditor for the first time, a prompt asking you to allow notifications will pop up, click ‘Allow’ (recommended).
 
-![Serverauditor ‘New Host’ configuration](images/ssh-ios-config.png)
+![Serverauditor ‘New Host’ configuration](../../images/screenshots/ssh-ios-config.png)
 
 Enter an `alias`, this could be ‘Raspberry Pi’, for example. Then enter the IP address under `hostname`. Fill out the `username` and `password` and hit ‘save’ in the top right corner.
 
