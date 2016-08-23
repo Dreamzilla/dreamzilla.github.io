@@ -17,6 +17,3 @@ After connecting to a host, the terminal will pop up.
 #### Terminal touch toggled off
 * **Swipe up or down** to scroll through a session 
 * **Swipe to the left or to the right** to hop between the active terminal tabs ([Premium only](../general/subscriptions.md))
-
-> ***!*** To Hold any key on the additional keyboard to toggle the keyboard customization panel
-> ![Keyboard customization pannel](../images/screenshots/terminal01.png)
