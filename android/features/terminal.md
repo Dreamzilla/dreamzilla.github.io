@@ -8,7 +8,7 @@ After connecting to a host, the terminal will pop up.
 ### Terminal touch
 `Terminal touch` changes the way you interact with the terminal, it is activated by tapping the `Gesture toggle` ![Guesture toggle](../images/terminaltouch.png). When Terminal touch is toggled on, swipe gestures represent different terminal functions. Toggle Terminal touch off to use swipe gestures for browsing and scrolling.
 
-> ###### ***!*** Universal gestures 
+> ##### ***!*** Universal gestures 
 > With both Terminal touch toggled off or on, use:
 > * **Pinch** to zoom, 
 > * **Long press** to select, copy and paste 
