@@ -4,9 +4,15 @@ Keys and identities are easily managed using Keychain.
 
 ###In this document
 * [Identities](#identities)
-* [Paste a key](#paste-a-key)
-* [Generate a key](#generate-a-key)
-* [Import a key](#import-a-key)
+* [Key management](#key-management)
+	* [Import keys](#import-keys)
+		* [Paste a key](#paste-a-key)
+		* [Import a key](#import-a-key)
+	* [Generate a key](#generate-a-key)
+	* [Export keys](#export-keys)
+		* [Export to a host](#export-to-a-host)
+		* [Export to a file](#export-to-a-file)
+		* [Send by email](#send-by-email)
 
 ### Identities
 An identity is a predefined username in combination with a password or key. An identity then can by applied among multiple hosts and host groups and it may be updated at any time. 
@@ -28,3 +34,53 @@ In the `New host`, `New group`, `Edit host`, and `Edit group` screens; Identitie
 ![An identity applied to a host group](../images/screenshots/identities01.png)
 
 > ***!*** Identities **are applicable to hosts and host groups**. One identity can be applied to multiple hosts and host groups at the time. An applied identity is editable in the Keychain making it easy to manage credentials of a (great) number of hosts.
+
+### Key management
+Use keys to enable secure password-less login. With key chain you can manage, organize and generate keys. Keys are managed similarely as [Hosts](hosts.md), [Groups](groups.md), and [Identities](#identities) are.
+
+To add a key the blue `+`, to edit, [export](#export-keys) or remove an existing key, tap and hold it with a long press. Continue reading for a detailed description.
+
+> ***!*** Keys in the keychain, imported and generated, may be[exported to a host](#export-to-a-host).
+
+#### Import keys
+##### Paste a key
+Adding a key to the Key chain can be done in several ways. One of them is by pasting an existing key into the app. To do so
+* Tap the blue `+`
+* Then tap `Paste key`
+* A new screen titled `Paste Key` appears
+* Fill out the `Name`, and copy and paste the `Public key` and `Private key` into the fields
+* You also may fill out a `Passphrase` if applicable
+* And hit the tick `✓` in the top right corner
+
+> ***!*** A passphrase encrypts the private key creating an extra security layer. A passphrase is optional and set using `ssh-keygen -p`
+
+This is why you're using SSH keys. Of course, using a key without a passphrase is basically the same as writing down a random password: anyone who gains access to your computer has gained access to every system you use that key with. This is also a Very Bad Thing. The solution is to add a passphrase to the SSH key for an extra layer of security.
+
+##### Import a key
+Importing a key is another way to add a key to the Key chain. To import
+existing key into the app. To do so
+* Tap the blue `+`
+* Then tap `Import key`
+* Select the method you prefer
+	* `Use the File manager`
+	* `Search on SD Card`
+
+> ***!*** File formats 
+
+### Generate a key
+You may use Key chain as key generator.
+* Tap the blue `+`
+* Then tap `Generate key`
+* Now fill out the fields `Name`, `Type`, `Key size`
+* `Passphrase` is optional and **will be stored in Key chain by default**
+
+> ***!*** The Passphrase is stored in Key chain by default. Upon the esablishment of a connection the passphrase is not prompted. To change this, edit the key by removing the passphrase
+
+### Export keys
+Keys that are kept in Serverauditor's Key chain are easily exported.
+
+#### Export to a host
+`Export to a host` is a powerful feature that helps you to establish a key on a host automatically. 
+
+#### Export to a file
+#### Send by email
