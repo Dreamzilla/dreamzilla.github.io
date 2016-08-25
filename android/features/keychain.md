@@ -77,7 +77,7 @@ You may use Key chain as key generator.
 > ***!*** The Passphrase is stored in Key chain by default. Upon the esablishment of a connection the passphrase is not prompted. To change this, edit the key by removing the passphrase
 
 ### Export keys
-Keys that are kept in Serverauditor's Key chain are easily exported.
+Keys that are kept in Serverauditor's Key chain are easily exported
 
 #### Export to a host
 `Export to a host` is a powerful feature that helps you to establish a key on a host automatically. 
