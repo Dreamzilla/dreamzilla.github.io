@@ -38,7 +38,8 @@ In the `New host`, `New group`, `Edit host`, and `Edit group` screens; Identitie
 ### Key management
 Use keys to enable secure password-less login. With key chain you can manage, organize and generate keys. Keys are managed similarely as [Hosts](hosts.md), [Groups](groups.md), and [Identities](#identities) are.
 
-To add a key the blue `+`, to edit, [export](#export-keys) or remove an existing key, tap and hold it with a long press. Continue reading for a detailed description.
+To add a key the blue `+`, to edit, [export](#export-keys) or remove an existing key, tap and hold it with a long press. 
+Continue reading for a detailed description.
 
 > ***!*** Keys in the keychain, imported and generated, may be[exported to a host](#export-to-a-host).
 
@@ -52,9 +53,7 @@ Adding a key to the Key chain can be done in several ways. One of them is by pas
 * You also may fill out a `Passphrase` if applicable
 * And hit the tick `✓` in the top right corner
 
-> ***!*** A passphrase encrypts the private key creating an extra security layer. A passphrase is optional and set using `ssh-keygen -p`
-
-This is why you're using SSH keys. Of course, using a key without a passphrase is basically the same as writing down a random password: anyone who gains access to your computer has gained access to every system you use that key with. This is also a Very Bad Thing. The solution is to add a passphrase to the SSH key for an extra layer of security.
+> ***!*** A passphrase encrypts the private key creating an extra security layer. A passphrase is optional and set using `$ ssh-keygen -p`
 
 ##### Import a key
 Importing a key is another way to add a key to the Key chain. To import
