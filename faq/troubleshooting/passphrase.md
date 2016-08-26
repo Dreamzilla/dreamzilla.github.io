@@ -6,4 +6,4 @@ In case you wish that the passprhase will be prompted, **simply remove the passp
 * Navigate to the specific key
 * Remove the value if the `Passphrase` field
 
-For detailed instructions [Android users click here](../android/faq/troubleshooting/passphrase.md) and [iOS users click here](../ios/faq/troubleshooting/passphrase.md).
+For detailed instructions [Android users click here](../../android/faq/troubleshooting/passphrase.md) and [iOS users click here](../../ios/faq/troubleshooting/passphrase.md).
