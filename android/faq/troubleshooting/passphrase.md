@@ -1,7 +1,7 @@
 ## I've generated a key with a passphrase, but the passphrase is not requested on connecting
 *Serverauditor supports RSA, DSA, and ECDSA keys for passwordless login. And you may protect your private key using a passphrase. This means that the private key will be encrypted using a passphrase to add an extra layer of security.*
 
-Passphrase-protected keys can be [generated](../../features/keychain.md#generate-a-key) with the key generator which you can find under `Keychain > Add > New key > Generate`. When you generate a passphrase-protected key set -- the public key, encrypted private key, **and passphrase** -- **will be stored in the Key chain**. Because of this, the passphrase will not be requested on the establishment of a connection. 
+Passphrase-protected keys can be [generated](../../features/keychain.md#generate-a-key) by the key generator which you can find under `Keychain > Add > New key > Generate`. When you generate a passphrase-protected key set -- the public key, encrypted private key, **and passphrase** -- **will be stored in the Key chain**. Because of this, the passphrase will not be requested on the establishment of a connection. 
 
 In case you wish that the passphrase will be prompted, **just remove the passphrase** after key generation. To do so:
 * Tap the particular key 
