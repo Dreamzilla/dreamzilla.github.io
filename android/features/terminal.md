@@ -6,7 +6,7 @@ After connecting to a host, the terminal will pop up.
 * [Terminal touch](#terminal-touch)
 
 ### Terminal touch
-`Terminal touch` changes the way you interact with the terminal, it is activated by tapping the `Gesture toggle` ![Gesture toggle](../images/terminaltouch.png). When Terminal touch is toggled on, swipe gestures represent different terminal functions. Toggle Terminal touch off to use swipe gestures for browsing and scrolling.
+`Terminal touch` changes the way you interact with the terminal, it is activated by tapping the `Gesture toggle` ![Gesture toggle](../.images/terminaltouch.png). When Terminal touch is toggled on, swipe gestures represent different terminal functions. Toggle Terminal touch off to use swipe gestures for browsing and scrolling.
 
 #### Terminal touch toggled on
 * **Swipe with *one* finger** to simulate the arrow keys
