@@ -3,7 +3,7 @@
 
 Passphrase-protected keys can be [generated](../../features/keychain.md#generate-a-key) by the key generator which you can find under `Keychain > Add > New key > Generate`. When you generate a passphrase-protected key set -- the public key, encrypted private key, **and passphrase** -- **will be stored in the Key chain**. Because of this, the passphrase will not be requested on the establishment of a connection. 
 
-> ***!*** In the latest Serverauditor (2.4.9), when you'll generate a new key, you'll find a checkbox `Save passphrase` that is checked by default. Uncheck this checkbox if you do not wish to store your passphrase.
+> ***!*** In the latest Serverauditor (2.4.9), when you'll generate a new key, you'll find a checkbox `Save passphrase` that is checked by default. Uncheck this checkbox if you do not wish to store the passphrase.
 
 In case you wish that the passphrase will be prompted, **just remove the passphrase** after key generation. To do so:
 * Tap the particular key 
