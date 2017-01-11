@@ -1,6 +1,6 @@
-# Get started with Serverauditor on Android
+# Get started with Termius on Android
 
-You have [downloaded](../what_is_serverauditor.md#how-to-get-serverauditor) Serverauditor, now what? This **quickstart guide** helps you to get going. The guide describes the following actions and shows practical examples:
+You have [downloaded](../what_is_termius.md#how-to-get-Termius) Termius, now what? This **quickstart guide** helps you to get going. The guide describes the following actions and shows practical examples:
 
 * [Setup a basic host](basic_host.md)
 * [Hosts and host groups](host_groups.md)

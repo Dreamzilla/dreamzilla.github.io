@@ -1,5 +1,5 @@
-## I’ve noticed that Serverauditor issues a couple of shell commands before starting the session. Why?
-On opening a new connection Serverauditor issues the following shell commands.
+## I’ve noticed that Termius issues a couple of shell commands before starting the session. Why?
+On opening a new connection Termius issues the following shell commands.
 
 `````
 HISTFILE=;SA_OS_TYPE="Linux"

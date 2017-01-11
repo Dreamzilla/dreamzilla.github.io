@@ -13,9 +13,9 @@ To start a session, the user needs to setup a host, this is done in the `Hosts` 
 The `Hosts` screen is the first screen that will appear when you'll open the app for the first time. It shows a big blue `+` on the bottom right corner and sais `Hosts` on the top left.
 
 > ##### ***!*** What is a host?
-> Serverauditor is a cross-platform SSH Client. It helps you to connect to- and manage a system or service. If a system or service is prepared to accept SSH connections it is called a host. A host can be found through hostname e.g. ssh.serverauditor.com or IP address e.g. 192.168.0.21. 
+> Termius is a cross-platform SSH Client. It helps you to connect to- and manage a system or service. If a system or service is prepared to accept SSH connections it is called a host. A host can be found through hostname e.g. ssh.Termius.com or IP address e.g. 192.168.0.21. 
 
-To get started with Serverauditor we should add a 'host'. This is done in the Hosts screen.
+To get started with Termius we should add a 'host'. This is done in the Hosts screen.
 * Tap the blue `+`
 * Them tap `New Host`
 
@@ -41,9 +41,9 @@ After tapping the tick, you'll be sent back to the `Hosts` screen. Here you shou
 
 ![Requesting Fingerprint](../.images/screenshots/host02.png)
 
-You may see a [security warning](http://www.lysium.de/blog/index.php?/archives/186-How-to-get-ssh-server-fingerprint-information.html). Don’t worry: everything is fine. Hit `Connect`. You’ll only see this warning the first time Serverauditor connects to a host that it hasn’t seen before.
+You may see a [security warning](http://www.lysium.de/blog/index.php?/archives/186-How-to-get-ssh-server-fingerprint-information.html). Don’t worry: everything is fine. Hit `Connect`. You’ll only see this warning the first time Termius connects to a host that it hasn’t seen before.
 
-![The Serverauditor terminal](../.images/screenshots/host03.png)
+![The Termius terminal](../.images/screenshots/host03.png)
 
 Now a terminal with a prompt should appear, you are connected. Type exit to close the terminal window.
 

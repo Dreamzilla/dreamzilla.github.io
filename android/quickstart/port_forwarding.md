@@ -36,7 +36,7 @@ Now you'll be sent back to the `Port forwarding` screen. Here tap the new rule, 
 ![Connection established](../.images/screenshots/portf02.png)
 
 > ##### _!_ So how does this work?
-Serverauditor redirects all traffic that connects to Localhost on port 8080 to your Raspberry pi over port 8000. This is done through an SSH tunnel, virtually tricking the Pi into believing that you're connecting through 'Localhost'. Finally, by setting the Address to 0.0.0.0 you'll tell your device that all connections are allowed to pass through.
+Termius redirects all traffic that connects to Localhost on port 8080 to your Raspberry pi over port 8000. This is done through an SSH tunnel, virtually tricking the Pi into believing that you're connecting through 'Localhost'. Finally, by setting the Address to 0.0.0.0 you'll tell your device that all connections are allowed to pass through.
 
 ## Variation in settings
 
@@ -50,7 +50,7 @@ Here you fill out the intermediate server and the port.
 Here you fill out the targeted address and port.
 
 ### Address
-Fill out 127.0.0.1 to allow the device that is carrying Serverauditor access to the host. To allow access through a specific device you'll fill out its IP address. And use 0.0.0.0 to allow all devices in a network access.
+Fill out 127.0.0.1 to allow the device that is carrying Termius access to the host. To allow access through a specific device you'll fill out its IP address. And use 0.0.0.0 to allow all devices in a network access.
 
 ![Connect using a browser](../.images/screenshots/portf03.png) &nbsp; ![Connect using a browser](../.images/screenshots/portf04.png)
 
