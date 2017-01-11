@@ -1,6 +1,6 @@
 # Termius User Guide
 
-Termius is an **advanced SSH client** and **classic terminal tool** in a modern fashion. It allows you to login into a remote computer such as a Unix server, a cluster node or a Raspberry Pi using the device you use every day — Android, iOS and desktop. 
+Termius is an **advanced SSH client** and **classic terminal tool** in a modern fashion. It allows you to login into a remote computer such as a Unix server, a cluster node or a Raspberry Pi using the device you use every day — Android, iOS and desktop.
 
 This guide helps you to get started with Termius and its features.
 
