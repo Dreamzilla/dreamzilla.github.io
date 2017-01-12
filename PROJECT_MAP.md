@@ -1,7 +1,7 @@
-# Table of contents
+# Project Map
 
-- [README.md](README.md)
-- [CONTENTS.md](CONTENTS.md)
+- [README](README.md)
+- [CONTENTS](CONTENTS.md)
 - [General](general/README.md)
   - [What is Termius?](general/what_is_termius.md)
   - [FAQ](general/faq/README.md)
@@ -33,7 +33,22 @@
       - [The terminal keeps timing out](general/faq/terminal/terminal_timeout.md)
   - [Subscriptions](general/subscriptions.md)
 - [Android](android/README.md)
+  - Getting started
+  - Features and functionality
+  - Known issues and troubleshooting
 - [iOS](ios/README.md)
+  - Getting started
+  - Features and functionality
+  - Known issues and troubleshooting
 - [Windows](windows/README.md)
+  - Getting started
+  - Features and functionality
+  - Known issues and troubleshooting
 - [MacOS](macos/README.md)
+  - Getting started
+  - Features and functionality
+  - Known issues and troubleshooting
 - [Linux](linux/README.md)
+  - Getting started
+  - Features and functionality
+  - Known issues and troubleshooting
