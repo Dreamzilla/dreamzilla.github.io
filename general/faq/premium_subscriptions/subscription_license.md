@@ -7,4 +7,4 @@ First and foremost, Termius is a product that is always under development, we st
 What's more? Premium users get cross-platform synchronization. We make sure that the user data you produce is synchronized across all the devices you'll use. To do so we run a secure zero-knowledge data store in the cloud (AWS).
 
 > ### SMB and Enterprise clients
-> Curious after a tailored licensing model to meet the specific needs of your business? Please [contact](mailto:server.auditor@crystalnix.com) our sales team. 
+> Curious after a tailored licensing model to meet the specific needs of your business? Please [contact](mailto:sales@termius.com) our sales team. 
