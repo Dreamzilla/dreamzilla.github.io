@@ -15,4 +15,4 @@ Now the passphrase will be prompted before a connection may be established.
 
 ![Remove the value of the passphrase field](../../.images/screenshots/passphrase-prompt.gif)
 
-> ***!*** Note that you also may [import](#)[link missing] passphrase-protected keys. You only need to fill out the passphrase field if you wish to store the passphrase in Keychain
+> ***!*** Note that you also may [import](https://github.com/Crystalnix/Termius-Documentation/blob/1e5521eb9e93e2fdbdf22378ddbe3424e9340c7e/android/features/keychain.md#import-keys) passphrase-protected keys. You only need to fill out the passphrase field if you wish to store the passphrase in Keychain
