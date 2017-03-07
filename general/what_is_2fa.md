@@ -14,4 +14,16 @@ Normally you use your username and password to log-in. With 2FA you have to use 
 ##### *! Note*
 2FA is linked to the Termius account. Activating 2FA with Authy on one device activates 2FA on all your devices with the same user account!  
 
+## How to get Authy?
+
+Authy is available on the following platforms
+
+[![Apple](https://www.authy.com/img/logos/apple--circle.svg)](https://itunes.apple.com/us/app/server-auditor/id549039908)
+[![Windows](https://www.authy.com/img/logos/windows--circle.svg)](https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb?hl=en)
+[![Linux](https://www.authy.com/img/logos/linux--circle.svg)](https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb?hl=en)
+[![iOS](https://www.authy.com/img/logos/ios--circle.svg)](https://itunes.apple.com/us/app/authy/id494168017?mt=8)
+[![Android](https://www.authy.com/img/logos/android--circle.svg)](https://www.authy.com/img/logos/android--circle.svg)
+
+
+
 Read more about Authy [here](https://www.authy.com/learn-more/)
