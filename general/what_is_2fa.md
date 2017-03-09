@@ -18,11 +18,11 @@ Normally you use your username and password to log-in. With 2FA you have to use 
 
 Authy is available on the following platforms
 
-[![Apple](.images/apple-circle.svg)](https://itunes.apple.com/us/app/server-auditor/id549039908)
-[![Windows](.images/windows-circle.svg)](https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb?hl=en)
-[![Linux](.images/linux-circle.svg)](https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb?hl=en)
-[![iOS](.images/ios-circle.svg)](https://itunes.apple.com/us/app/authy/id494168017?mt=8)
-[![Android](.images/android-circle.svg)](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en)
+[![Apple](.images/apple-circle.png)](https://itunes.apple.com/us/app/server-auditor/id549039908)
+[![Windows](.images/windows-circle.png)](https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb?hl=en)
+[![Linux](.images/linux-circle.png)](https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb?hl=en)
+[![iOS](.images/ios-circle.png)](https://itunes.apple.com/us/app/authy/id494168017?mt=8)
+[![Android](.images/android-circle.png)](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en)
 
 
 
